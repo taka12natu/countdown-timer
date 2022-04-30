@@ -59,5 +59,5 @@ if(now_date >= start_time && now_date <= end_time){
   element.style.display="block";
 }
 if(now_date > today){
-  document.getElementById('js_text_change').innerText = "GW CAMPAIGN WILL START TODAY!";
+  document.getElementById('js_text_change').innerText = "WILL START TODAY!";
 }
